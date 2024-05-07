@@ -2,7 +2,7 @@ package com.eichfizh;
 
 public class Main {
     public static void main(String[] args) {
-        // Contoh penggunaan if
+        // Contoh penggunaan if tunggal dan if else
         int a = 5;
 
         System.out.println("Nilai = " + a);
